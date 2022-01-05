@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTitleText": "hahaha",
+    "navigationBarTextStyle":"black",
+    "onReachBottomDistance": 300
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}
